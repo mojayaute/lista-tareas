@@ -8,7 +8,7 @@ Laravel
 
 3.- Correr migraciones php artisan migrate
 
-4.- actualizar el .env con los datos de la bd y conexcion
+4.- actualizar el .env con los datos de la bd y conexion
 
 
 ---
